@@ -10,7 +10,7 @@
 
 ## 💻 Main Objective
 
-The propose of this github repository is replicate the article publish at https://www.quant-investing.com/strategies/magic-formula-investing-and-momentum-investment-strategy where they use the greenblat method (if you dont what is this i reccomend you to read the article) and after that they make some comparisson with others financial indicators to generate a stock market wallet and see if the method works. The difference here is that we are going to use just brailian stock market to verify if he method works wells.
+The goal of this github repository is to recreate the essay published at https://www.quant-investing.com/strategies/magic-formula-investing-and-momentum-investment-strategy. where they apply the greenblat method (to fully understand the concept, see the article) and then perform some comparisons with other financial indicators to create a stock market wallet and analyze if the strategy works The difference here is that we will only use the Brazilian stockmarket to see if the method works.
 
 <!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
 * Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
