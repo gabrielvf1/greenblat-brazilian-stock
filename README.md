@@ -6,7 +6,7 @@
 
 <img src="https://github.com/gabrielvf1/greenblat-brazilian-stock/blob/main/ezgif.com-gif-maker%20(1).gif" width="100%" height="400px"/>
 
-> Source of the study
+> Source of the study ->  https://www.quant-investing.com/strategies/magic-formula-investing-and-momentum-investment-strategy
 
 ## 💻 Main Objective
 
